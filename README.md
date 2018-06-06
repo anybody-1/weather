@@ -3,3 +3,4 @@
 ### 利用了 HTML5、CSS、原生js及ajax
 **其中的API接口地址与使用方法为**
 [weatherAPI](http://api.jirengu.com/)
+## 效果预览地址：https://anybody-1.github.io/weather/
