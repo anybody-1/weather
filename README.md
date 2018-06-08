@@ -9,3 +9,4 @@
 
 ### weather API接口地址与使用方法为
 [weatherAPI](http://api.jirengu.com/)
+## 效果预览地址：https://anybody-1.github.io/weather/
